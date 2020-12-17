@@ -1,0 +1,223 @@
+Query_ID	Query
+1	what OR similarity OR laws OR must OR be OR obeyed OR when OR constructing OR aeroelastic OR models OR of OR heated OR high OR speed OR aircraft
+2	what OR are OR the OR structural OR and OR aeroelastic OR problems OR associated OR with OR flight OR of OR high OR speed OR aircraft
+3	what OR problems OR of OR heat OR conduction OR in OR composite OR slabs OR have OR been OR solved OR so OR far
+4	can OR a OR criterion OR be OR developed OR to OR show OR empirically OR the OR validity OR of OR flow OR solutions OR for OR chemically OR reacting OR gas OR mixtures OR based OR on OR the OR simplifying OR assumption OR of OR instantaneous OR local OR chemical OR equilibrium
+5	what OR chemical OR kinetic OR system OR is OR applicable OR to OR hypersonic OR aerodynamic OR problems
+6	what OR theoretical OR and OR experimental OR guides OR do OR we OR have OR as OR to OR turbulent OR couette OR flow OR behaviour
+7	is OR it OR possible OR to OR relate OR the OR available OR pressure OR distributions OR for OR an OR ogive OR forebody OR at OR zero OR angle OR of OR attack OR to OR the OR lower OR surface OR pressures OR of OR an OR equivalent OR ogive OR forebody OR at OR angle OR of OR attack
+8	what OR methods OR exact OR or OR approximate OR are OR presently OR available OR for OR predicting OR body OR pressures OR at OR angle OR of OR attack
+9	papers OR on OR internal OR /slip OR flow/ OR heat OR transfer OR studies
+10	are OR real OR gas OR transport OR properties OR for OR air OR available OR over OR a OR wide OR range OR of OR enthalpies OR and OR densities
+11	is OR it OR possible OR to OR find OR an OR analytical OR similar OR solution OR of OR the OR strong OR blast OR wave OR problem OR in OR the OR newtonian OR approximation
+12	how OR can OR the OR aerodynamic OR performance OR of OR channel OR flow OR ground OR effect OR machines OR be OR calculated
+13	what OR is OR the OR basic OR mechanism OR of OR the OR transonic OR aileron OR buzz
+14	papers OR on OR shock OR sound OR wave OR interaction
+15	material OR properties OR of OR photoelastic OR materials
+16	can OR the OR transverse OR potential OR flow OR about OR a OR body OR of OR revolution OR be OR calculated OR efficiently OR by OR an OR electronic OR computer
+17	can OR the OR three OR dimensional OR problem OR of OR a OR transverse OR potential OR flow OR about OR a OR body OR of OR revolution OR be OR reduced OR to OR a OR two OR dimensional OR problem
+18	are OR experimental OR pressure OR distributions OR on OR bodies OR of OR revolution OR at OR angle OR of OR attack OR available
+19	does OR there OR exist OR a OR good OR basic OR treatment OR of OR the OR dynamics OR of OR re OR entry OR combining OR consideration OR of OR realistic OR effects OR with OR relative OR simplicity OR of OR results
+20	has OR anyone OR formally OR determined OR the OR influence OR of OR joule OR heating OR produced OR by OR the OR induced OR current OR in OR magnetohydrodynamic OR free OR convection OR flows OR under OR general OR conditions
+21	why OR does OR the OR compressibility OR transformation OR fail OR to OR correlate OR the OR high OR speed OR data OR for OR helium OR and OR air
+22	did OR anyone OR else OR discover OR that OR the OR turbulent OR skin OR friction OR is OR not OR over OR sensitive OR to OR the OR nature OR of OR the OR variation OR of OR the OR viscosity OR with OR temperature
+23	what OR progress OR has OR been OR made OR in OR research OR on OR unsteady OR aerodynamics
+24	what OR are OR the OR factors OR which OR influence OR the OR time OR required OR to OR invert OR large OR structural OR matrices
+25	does OR a OR practical OR flow OR follow OR the OR theoretical OR concepts OR for OR the OR interaction OR between OR adjacent OR blade OR rows OR of OR a OR supersonic OR cascade
+26	what OR is OR a OR single OR approximate OR formula OR for OR the OR displacement OR thickness OR of OR a OR laminar OR boundary OR layer OR in OR compressible OR flow OR on OR a OR flat OR plate
+27	how OR is OR the OR design OR of OR ring OR or OR part OR ring OR wings OR by OR linear OR theory OR affected OR by OR thickness
+28	what OR application OR has OR the OR linear OR theory OR design OR of OR curved OR wings
+29	what OR is OR the OR effect OR of OR cross OR sectional OR shape OR on OR the OR flow OR over OR simple OR delta OR wings OR with OR sharp OR leading OR edges
+30	papers OR on OR flow OR visualization OR on OR slender OR conical OR wings
+32	to OR find OR an OR approximate OR correction OR for OR thickness OR in OR slender OR thin OR wing OR theory
+33	how OR do OR interference OR free OR longitudinal OR stability OR measurements OR made OR using OR free OR flight OR models OR compare OR with OR similar OR measurements OR made OR in OR a OR low OR blockage OR wind OR tunnel
+34	have OR wind OR tunnel OR interference OR effects OR been OR investigated OR on OR a OR systematic OR basis
+35	are OR there OR any OR papers OR dealing OR with OR acoustic OR wave OR propagation OR in OR reacting OR gases
+36	has OR anyone OR investigated OR relaxation OR effects OR on OR gaseous OR heat OR transfer OR to OR a OR suddenly OR heated OR wall
+37	are OR there OR any OR theoretical OR methods OR for OR predicting OR base OR pressure
+38	does OR transition OR in OR the OR hypersonic OR wake OR depend OR on OR body OR geometry OR and OR size
+39	how OR can OR one OR detect OR transition OR phenomena OR in OR boundary OR layers
+40	how OR can OR one OR detect OR transition OR phenomena OR in OR hypersonic OR wakes
+41	has OR anyone OR investigated OR and OR developed OR a OR simple OR model OR for OR the OR vortex OR wake OR behind OR a OR cruciform OR wing
+42	what OR is OR a OR criterion OR that OR the OR transonic OR flow OR around OR an OR airfoil OR with OR a OR round OR leading OR edge OR be OR validly OR analyzed OR by OR the OR linearized OR transonic OR flow OR theory
+43	can OR the OR transonic OR flow OR around OR an OR arbitrary OR smooth OR thin OR airfoil OR be OR analysed OR in OR a OR simple OR approximate OR way
+44	what OR are OR the OR details OR of OR the OR rigorous OR kinetic OR theory OR of OR gases OR chapman OR enskog OR theory
+45	has OR anyone OR investigated OR the OR effect OR of OR surface OR mass OR transfer OR on OR hypersonic OR viscous OR interactions
+46	what OR is OR the OR combined OR effect OR of OR surface OR heat OR and OR mass OR transfer OR on OR hypersonic OR flow
+47	what OR are OR the OR existing OR solutions OR for OR hypersonic OR viscous OR interactions OR over OR an OR insulated OR flat OR plate
+48	what OR controls OR leading OR edge OR attachment OR at OR transonic OR speeds
+49	can OR the OR three OR point OR boundary OR value OR problem OR for OR the OR blasius OR equation OR be OR integrated OR numerically OR using OR suitable OR transformations OR without OR iteration OR on OR the OR boundary OR conditions
+50	what OR are OR the OR effects OR of OR small OR amounts OR of OR gas OR rarefaction OR on OR the OR characteristics OR of OR the OR boundary OR layers OR on OR slender OR bodies OR of OR revolution
+51	what OR is OR the OR available OR information OR pertaining OR to OR boundary OR layers OR on OR very OR slender OR bodies OR of OR revolution OR in OR continuum OR flow OR the OR ?transverse OR curvature OR effect
+52	what OR is OR the OR available OR information OR pertaining OR to OR the OR effect OR of OR slight OR rarefaction OR on OR boundary OR layer OR flows OR the OR ?slip? OR effect
+53	what OR investigations OR have OR been OR made OR of OR the OR flow OR field OR about OR a OR body OR moving OR through OR a OR rarefied OR partially OR ionized OR gas OR in OR the OR presence OR of OR a OR magnetic OR field
+54	how OR is OR the OR heat OR transfer OR downstream OR of OR the OR mass OR transfer OR region OR effected OR by OR mass OR transfer OR at OR the OR nose OR of OR a OR blunted OR cone
+55	to OR what OR extent OR can OR the OR available OR information OR for OR incompressible OR boundary OR layers OR be OR applied OR to OR problems OR involving OR compressible OR boundary OR layers
+56	to OR what OR extent OR can OR readily OR available OR steady OR state OR aerodynamic OR data OR be OR utilized OR to OR predict OR lifting OR surface OR flutter OR characteristics
+57	what OR are OR the OR significant OR steady OR and OR non OR steady OR flow OR characteristics OR which OR affect OR the OR flutter OR mechanism
+58	is OR it OR possible OR to OR determine OR rates OR of OR forced OR convective OR heat OR transfer OR from OR heated OR cylinders OR of OR non OR circular OR cross OR section OR the OR fluid OR flow OR being OR along OR the OR generators
+59	how OR much OR is OR known OR about OR boundary OR layer OR flows OR along OR non OR circular OR cylinders
+60	is OR there OR any OR simple OR but OR practical OR method OR for OR numerical OR integration OR of OR the OR mixing OR problem OR i OR e OR the OR blasius OR problem OR with OR three OR point OR boundary OR conditions
+61	does OR there OR exist OR a OR closed OR form OR expression OR for OR the OR local OR heat OR transfer OR around OR a OR yawed OR cylinder
+62	how OR far OR around OR a OR cylinder OR and OR under OR what OR conditions OR of OR flow OR if OR any OR is OR the OR velocity OR just OR outside OR of OR the OR boundary OR layer OR a OR linear OR function OR of OR the OR distance OR around OR the OR cylinder
+63	where OR can OR i OR find OR pressure OR data OR on OR surfaces OR of OR swept OR cylinders
+64	can't OR the OR static OR deflection OR shapes OR be OR used OR in OR predicting OR flutter OR in OR place OR of OR vibrational OR shapes OR if OR so OR can OR we OR provide OR a OR justification OR by OR means OR of OR an OR example
+65	does OR the OR boundary OR layer OR on OR a OR flat OR plate OR in OR a OR shear OR flow OR induce OR a OR pressure OR gradient
+66	can OR the OR procedure OR of OR matching OR inner OR and OR outer OR solutions OR for OR a OR viscous OR flow OR problem OR be OR applied OR when OR the OR main OR stream OR is OR a OR shear OR flow
+67	can OR series OR expansions OR be OR found OR for OR the OR boundary OR layer OR on OR a OR flat OR plate OR in OR a OR shear OR flow
+68	what OR possible OR techniques OR are OR available OR for OR computing OR the OR injection OR distribution OR corresponding OR to OR an OR isothermal OR transpiration OR cooled OR hemisphere
+69	what OR is OR known OR regarding OR asymptotic OR solutions OR to OR the OR exact OR boundary OR layer OR equations
+70	previous OR solutions OR to OR the OR boundary OR layer OR similarity OR equations
+71	experimental OR results OR on OR hypersonic OR viscous OR interaction
+72	what OR has OR been OR done OR about OR viscous OR interactions OR in OR relatively OR low OR reynolds OR number OR flows OR particularly OR at OR high OR mach OR numbers
+73	what OR role OR does OR the OR effect OR of OR chemical OR reaction OR particularly OR when OR out OR of OR equilibrium OR play OR in OR the OR similitude OR laws OR governing OR hypersonic OR flows OR over OR slender OR aerodynamic OR bodies
+74	how OR significant OR is OR the OR possible OR pressure OR of OR a OR dissociated OR free OR stream OR with OR respect OR to OR the OR realization OR of OR hypersonic OR simulation OR in OR high OR enthalpy OR wind OR tunnels
+75	do OR the OR discrepancies OR among OR current OR analyses OR of OR the OR vorticity OR effect OR on OR stagnation OR point OR heat OR transfer OR result OR primarily OR from OR the OR differences OR in OR the OR viscosity OR temperature OR law OR assumed
+76	how OR far OR can OR one OR trust OR the OR linear OR viscosity OR temperature OR solution OR assumed OR in OR some OR of OR the OR analyses OR of OR hypersonic OR shock OR layer OR at OR low OR reynolds OR number
+77	how OR close OR is OR the OR comparison OR of OR the OR shock OR layer OR theory OR with OR existing OR experiments OR in OR the OR low OR reynolds OR number OR merged OR layer OR regime
+78	has OR anyone OR explained OR the OR kink OR in OR the OR surge OR line OR of OR a OR multi OR stage OR axial OR compressor
+79	have OR any OR aerodynamic OR derivatives OR been OR measured OR at OR hypersonic OR mach OR numbers OR and OR comparison OR been OR made OR with OR theoretical OR work
+80	are OR methods OR of OR measuring OR aerodynamic OR derivatives OR available OR which OR could OR be OR adopted OR for OR use OR in OR short OR running OR time OR facilities
+81	what OR are OR wind OR tunnel OR corrections OR for OR a OR two OR dimensional OR aerofoil OR mounted OR off OR centre OR in OR a OR tunnel
+82	how OR do OR kuchemann's OR and OR multhopp's OR methods OR for OR calculating OR lift OR distributions OR on OR swept OR wings OR in OR subsonic OR flow OR compare OR with OR each OR other OR and OR with OR experiment
+83	what OR is OR the OR present OR state OR of OR the OR theory OR of OR quasi OR conical OR flows
+84	references OR on OR the OR methods OR available OR for OR accurately OR estimating OR aerodynamic OR heat OR transfer OR to OR conical OR bodies OR for OR both OR laminar OR and OR turbulent OR flow
+85	what OR parameters OR can OR seriously OR influence OR natural OR transition OR from OR laminar OR to OR turbulent OR flow OR on OR a OR model OR in OR a OR wind OR tunnel
+86	can OR a OR satisfactory OR experimental OR technique OR be OR developed OR for OR measuring OR oscillatory OR derivatives OR on OR slender OR sting OR mounted OR models OR in OR supersonic OR wind OR tunnels
+87	what OR effect OR has OR the OR boundary OR layer OR in OR modifying OR the OR basic OR inviscid OR flow OR behind OR the OR shock OR neglecting OR effects OR of OR leading OR edge OR and OR corner
+88	how OR does OR a OR satellite OR orbit OR contract OR under OR the OR action OR of OR air OR drag OR in OR an OR atmosphere OR in OR which OR the OR scale OR height OR varies OR with OR altitude
+89	how OR is OR the OR flow OR at OR transonic OR speeds OR about OR a OR delta OR wing OR different OR from OR that OR on OR a OR closely OR related OR tapered OR sweptback OR wing
+90	recent OR data OR on OR shock OR induced OR boundary OR layer OR separation
+91	what OR interference OR effects OR are OR likely OR at OR transonic OR speeds
+92	given OR complete OR freedom OR in OR the OR design OR of OR an OR airplane OR what OR procedure OR would OR be OR used OR in OR order OR to OR minimize OR sonic OR boom OR intensity OR and OR is OR there OR a OR limit OR to OR the OR degree OR of OR minimizing OR that OR can OR be OR accomplished
+93	can OR methane OR air OR combustion OR product OR be OR used OR as OR a OR hypersonic OR test OR medium OR and OR predict OR within OR experimental OR accuracies OR the OR results OR obtained OR in OR air
+94	what OR is OR the OR theoretical OR heat OR transfer OR rate OR at OR the OR stagnation OR point OR of OR a OR blunt OR body
+95	what OR is OR the OR theoretical OR heat OR transfer OR distribution OR around OR a OR hemisphere
+96	has OR anyone OR investigated OR the OR unsteady OR lift OR distributions OR on OR finite OR wings OR in OR subsonic OR flow
+97	what OR information OR is OR available OR for OR dynamic OR response OR of OR airplanes OR to OR gusts OR or OR blasts OR in OR the OR subsonic OR regime
+98	will OR forward OR or OR apex OR located OR controls OR be OR effective OR at OR low OR subsonic OR speeds OR and OR how OR do OR they OR compare OR with OR conventional OR trailing OR edge OR flaps
+99	given OR that OR an OR uncontrolled OR vehicle OR will OR tumble OR as OR it OR enters OR an OR atmosphere OR is OR it OR possible OR to OR predict OR when OR and OR how OR it OR will OR stop OR tumbling OR and OR its OR subsequent OR motion
+100	what OR are OR the OR effects OR of OR initial OR imperfections OR on OR the OR elastic OR buckling OR of OR cylindrical OR shells OR under OR axial OR compression
+101	why OR does OR the OR incremental OR theory OR and OR the OR deformation OR theory OR of OR plastic OR stress OR strain OR relationship OR differ OR greatly OR when OR applied OR to OR stability OR problems
+102	basic OR dynamic OR characteristics OR of OR structures OR continuous OR over OR many OR spans
+103	is OR the OR information OR on OR the OR buckling OR of OR sandwich OR sphere OR available
+104	can OR the OR load OR deformation OR characteristics OR of OR a OR beam OR be OR obtained OR with OR the OR material OR being OR inelastic OR and OR a OR non OR uniform OR temperature OR being OR present
+105	what OR is OR the OR effect OR of OR an OR internal OR liquid OR column OR on OR the OR breathing OR vibrations OR of OR a OR cylindrical OR shell
+106	experimental OR techniques OR in OR shell OR vibration
+107	in OR summarizing OR theoretical OR and OR experimental OR work OR on OR the OR behaviour OR of OR a OR typical OR aircraft OR structure OR in OR a OR noise OR environment OR is OR it OR possible OR to OR develop OR a OR design OR procedure
+108	what OR data OR is OR there OR on OR the OR fatigue OR of OR structures OR under OR acoustic OR loading
+109	panels OR subjected OR to OR aerodynamic OR heating
+110	can OR increasing OR the OR edge OR loading OR of OR a OR plate OR beyond OR the OR critical OR value OR for OR buckling OR change OR the OR buckling OR mode
+111	have OR the OR effects OR of OR an OR elastic OR edge OR restraint OR been OR considered OR in OR previous OR papers OR on OR panel OR flutter
+112	has OR the OR solution OR of OR the OR clamped OR plate OR problem OR in OR the OR classical OR theory OR of OR bending OR been OR reduced OR to OR two OR successive OR membrane OR boundary OR value OR problems
+113	what OR data OR exists OR on OR oscillatory OR aerodynamic OR forces OR on OR control OR surfaces OR at OR transonic OR mach OR numbers
+114	it OR is OR not OR likely OR that OR the OR airforces OR on OR a OR wing OR of OR general OR planform OR oscillating OR in OR transonic OR flow OR can OR be OR determined OR by OR purely OR analytical OR methods OR is OR it OR possible OR to OR determine OR the OR airforces OR on OR a OR single OR particular OR planform OR such OR as OR the OR rectangular OR one OR by OR such OR method
+115	is OR the OR problem OR of OR similarity OR for OR representative OR investigations OR of OR aeroelastic OR effects OR in OR heated OR flow OR as OR intractable OR as OR previous OR investigations OR imply
+116	what OR is OR the OR magnitude OR and OR distribution OR of OR lift OR over OR the OR cone OR and OR the OR cylindrical OR portion OR of OR a OR cone OR cylinder OR configuration
+117	is OR there OR any OR information OR on OR how OR the OR addition OR of OR a OR /boat OR tail/ OR affects OR the OR normal OR force OR on OR the OR body OR of OR various OR angles OR of OR incidence
+118	what OR are OR the OR aerodynamic OR interference OR effects OR on OR the OR fin OR lift OR and OR body OR lift OR of OR a OR fin OR body OR combination
+120	are OR previous OR analyses OR of OR circumferential OR thermal OR buckling OR of OR circular OR cylindrical OR shells OR unnecessarily OR involved OR or OR even OR inaccurate OR due OR to OR the OR assumed OR forms OR of OR buckling OR mode
+121	what OR papers OR are OR there OR dealing OR with OR circumferential OR buckling OR either OR thermal OR buckling OR or OR due OR to OR mechanical OR loading
+122	what OR analytical OR investigations OR have OR been OR made OR of OR the OR stability OR of OR conical OR shells OR how OR do OR the OR results OR compare OR with OR experiment
+123	has OR any OR work OR been OR done OR on OR determining OR the OR nature OR of OR compressible OR viscous OR flow OR in OR a OR straight OR channel
+124	in OR what OR areas OR other OR than OR low OR density OR wind OR tunnel OR flows OR is OR viscous OR compressible OR flow OR in OR slender OR channels OR a OR problem OR what OR analytical OR investigations OR have OR been OR made OR of OR the OR stability OR of OR conical OR shells OR how OR do OR the OR results OR compare OR with OR experiment
+125	jet OR interference OR with OR supersonic OR flow OR experimental OR papers
+126	thrust OR vector OR control OR by OR fluid OR injection OR papers
+127	is OR it OR possible OR to OR obtain OR a OR reasonably OR simple OR analytical OR solution OR to OR the OR heat OR equation OR for OR an OR exponential OR in OR time OR heat OR input
+128	has OR anyone OR programmed OR a OR pump OR design OR method OR for OR a OR high OR speed OR digital OR computer
+129	has OR anyone OR derived OR simplified OR pump OR design OR equation OR from OR the OR fundamental OR three OR dimensional OR equations OR for OR incompressible OR nonviscous OR flow
+130	what OR are OR the OR flutter OR characteristics OR of OR the OR exposed OR skin OR panels OR of OR the OR x OR 15 OR vertical OR stabilizer OR when OR subjected OR to OR aerodynamic OR heating
+131	what OR agreement OR is OR found OR between OR theoretically OR predicted OR instability OR times OR and OR experimentally OR measured OR collapse OR times OR for OR compressed OR columns OR in OR creep
+132	theoretical OR studies OR of OR creep OR buckling
+133	experimental OR studies OR of OR creep OR buckling
+134	is OR it OR possible OR to OR correlate OR the OR results OR on OR the OR creep OR buckling OR of OR widely OR different OR structures OR within OR the OR framework OR of OR a OR single OR theory
+135	what OR are OR the OR experimental OR results OR for OR the OR creep OR buckling OR of OR columns
+136	what OR are OR the OR results OR for OR the OR creep OR buckling OR of OR round OR tubes OR under OR external OR pressure
+137	have OR any OR analytical OR studies OR been OR conducted OR on OR the OR time OR to OR failure OR mechanism OR associated OR with OR creep OR collapse OR for OR a OR long OR circular OR cylindrical OR shell OR which OR exhibits OR both OR primary OR and OR secondary OR creep OR as OR well OR as OR elastic OR deformations OR under OR various OR distributed OR force OR systems
+138	has OR the OR effect OR of OR initial OR stresses OR on OR the OR frequencies OR of OR vibration OR of OR circular OR cylindrical OR shells OR been OR investigated
+139	has OR the OR effect OR of OR the OR change OR of OR initial OR pressure OR due OR to OR deformation OR on OR the OR frequencies OR of OR vibration OR of OR circular OR cylindrical OR shells OR been OR investigated
+140	what OR are OR the OR discontinuity OR stresses OR at OR junctions OR in OR pressurized OR structures
+141	what OR analytical OR solutions OR are OR available OR for OR stresses OR in OR edge OR loaded OR shells OR of OR revolution
+142	what OR dome OR contours OR minimize OR discontinuity OR stresses OR when OR used OR as OR closures OR on OR cylindrical OR pressure OR vessels
+143	what OR general OR solutions OR for OR the OR stresses OR in OR pressurized OR shells OR of OR revolution OR are OR available
+144	can OR studies OR of OR pure OR membrane OR cylinders OR having OR no OR wall OR bending OR stiffness OR but OR maintaining OR their OR shape OR by OR virtue OR of OR internal OR pressure OR provide OR any OR insight OR into OR the OR behaviour OR of OR pressurized OR cylinders OR with OR finite OR wall OR stiffness
+145	what OR are OR the OR best OR experimental OR data OR and OR classical OR small OR deflection OR theory OR analyses OR available OR for OR pressurized OR cylinders OR in OR bending
+146	does OR a OR membrane OR theory OR exist OR by OR which OR the OR behaviour OR of OR pressurized OR membrane OR cylinders OR in OR bending OR can OR be OR predicted
+147	what OR are OR the OR equations OR which OR define OR the OR stability OR of OR simply OR supported OR corrugated OR core OR sandwich OR cylinders
+148	papers OR on OR small OR deflection OR theory OR for OR buckling OR of OR sandwich OR cylinders
+149	has OR anyone OR developed OR an OR analysis OR which OR accurately OR establishes OR the OR large OR deflection OR behaviour OR of OR conical OR shells
+150	what OR is OR the OR magnitude OR of OR second OR order OR wing OR body OR interference OR at OR high OR supersonic OR mach OR number
+151	what OR is OR the OR best OR theoretical OR method OR for OR calculating OR pressure OR on OR the OR surface OR of OR a OR wing OR alone
+152	how OR can OR the OR effect OR of OR the OR boundary OR layer OR on OR wing OR pressure OR be OR calculated OR and OR what OR is OR its OR magnitude
+153	how OR should OR the OR navier OR stokes OR difference OR equations OR be OR solved
+154	which OR iterative OR method OR for OR solving OR linear OR elliptic OR difference OR equations OR is OR most OR rapidly OR convergent
+155	technical OR report OR on OR measurement OR of OR ablation OR during OR flight
+156	what OR qualitative OR and OR quantitative OR material OR is OR available OR on OR ablation OR materials OR research
+157	have OR flow OR fields OR been OR calculated OR for OR blunt OR nosed OR bodies OR and OR compared OR with OR experiment OR for OR a OR wide OR range OR of OR free OR stream OR conditions OR and OR body OR shapes
+158	what OR are OR the OR available OR properties OR of OR high OR temperature OR air
+159	what OR is OR the OR magnitude OR of OR aerodynamic OR damping OR in OR flexible OR vibration OR modes OR of OR a OR slender OR body OR of OR revolution OR characteristic OR of OR launch OR vehicles
+160	compressive OR circumferential OR stresses OR in OR a OR torispherical OR shell OR reveal OR the OR possibility OR of OR buckling OR under OR internal OR pressure OR has OR anyone OR investigated OR for OR which OR ranges OR of OR shell OR parameters OR these OR stresses OR are OR sufficiently OR large OR to OR cause OR elastic OR buckling
+161	is OR there OR an OR integral OR method OR to OR give OR a OR single OR and OR sufficiently OR accurate OR method OR of OR calculating OR the OR laminar OR separate OR point OR for OR various OR incompressible OR and OR compressible OR boundary OR layers OR with OR zero OR heat OR transfer
+162	what OR accurate OR or OR exact OR solutions OR of OR the OR laminar OR separation OR point OR for OR various OR incompressible OR and OR compressible OR boundary OR layers OR with OR zero OR heat OR transfer OR are OR available
+163	can OR the OR hypersonic OR similarity OR results OR be OR applied OR to OR the OR technique OR of OR predicting OR surface OR pressures OR of OR an OR ogive OR forebody OR at OR angle OR of OR attack
+164	what OR determines OR the OR onset OR of OR shock OR induced OR boundary OR layer OR separation
+165	are OR the OR stable OR profiles OR of OR a OR compressible OR boundary OR layer OR induced OR by OR a OR moving OR wave OR known
+166	are OR there OR experimental OR results OR on OR the OR stability OR of OR a OR compressible OR boundary OR layer OR induced OR by OR a OR moving OR wave
+167	exact OR solution OR methods OR for OR calculating OR the OR ablative OR mass OR loss OR of OR a OR material OR ablating OR at OR high OR temperatures OR in OR a OR hypersonic OR flight OR environment
+168	what OR approximate OR solutions OR are OR known OR to OR the OR direct OR problem OR of OR transonic OR flow OR in OR the OR throat OR of OR a OR nozzle OR i OR e OR finding OR the OR flow OR in OR a OR given OR nozzle
+169	what OR approximate OR solutions OR are OR known OR to OR the OR indirect OR problem OR of OR transonic OR flow OR in OR the OR throat OR of OR a OR nozzle OR i OR e OR finding OR a OR nozzle OR which OR has OR a OR given OR axial OR velocity OR distribution
+170	why OR do OR users OR of OR orthodox OR pitot OR static OR tubes OR often OR find OR that OR the OR calibrations OR appear OR to OR be OR a OR significantly OR different OR from OR those OR formerly OR specified OR b OR wildly OR variable OR at OR low OR reynolds OR numbers
+171	has OR a OR comparison OR been OR made OR between OR interference OR free OR drag OR measurements OR using OR free OR flight OR models OR and OR similar OR measurements OR made OR in OR a OR low OR blockage OR wind OR tunnel
+172	solution OR of OR the OR blasius OR problem OR with OR three OR point OR boundary OR conditions
+173	references OR on OR lyapunov's OR method OR on OR the OR stability OR of OR linear OR differential OR equations OR with OR periodic OR coefficients
+174	obtain OR all OR papers OR and OR reports OR that OR contain OR shock OR detachment OR distance OR data
+175	work OR on OR flow OR in OR channels OR at OR low OR reynolds OR numbers
+176	some OR approximate OR analytical OR heat OR conduction OR solutions OR using OR methods OR other OR than OR biot's OR principle
+177	what OR mode OR of OR stalling OR can OR be OR expected OR for OR each OR stage OR of OR an OR axial OR compressor
+178	has OR a OR criterion OR been OR established OR for OR determining OR the OR axial OR compressor OR choking OR line
+179	has OR a OR theory OR of OR quasi OR conical OR flows OR been OR developed OR in OR supersonic OR linearised OR theory OR for OR which OR the OR upwash OR distribution OR on OR the OR lifting OR surface OR apart OR from OR being OR a OR homogeneous OR function OR in OR the OR co OR ordinate OR is OR permitted OR to OR have OR a OR quite OR general OR functional OR form
+180	how OR does OR scale OR height OR vary OR with OR altitude OR in OR an OR atmosphere
+181	jet OR interference OR with OR supersonic OR flows OR theoretical OR papers
+182	effects OR of OR leading OR edge OR bluntness OR on OR the OR flutter OR characteristics OR of OR some OR square OR planform OR double OR wedge OR airfoils OR at OR mach OR numbers OR less OR than OR 15 OR 4
+183	what OR factors OR have OR been OR shown OR to OR have OR a OR primary OR influence OR on OR sonic OR boom OR strength
+184	work OR on OR small OR oscillation OR re OR entry OR motions
+185	experimental OR studies OR on OR panel OR flutter
+186	how OR can OR wing OR body OR flow OR field OR interference OR effects OR be OR approximated OR rationally
+187	has OR anyone OR analytically OR or OR experimentally OR investigated OR the OR effects OR of OR internal OR pressure OR on OR the OR buckling OR of OR circular OR cylindrical OR shells OR under OR bending
+188	what OR theoretical OR and OR experimental OR work OR has OR been OR done OR on OR the OR excitation OR and OR response OR of OR typical OR structures OR in OR a OR noise OR environment
+189	is OR there OR a OR design OR method OR for OR calculating OR thermal OR fatigue OR endurances OR of OR components OR of OR various OR types OR and OR sizes OR in OR a OR variety OR of OR circumstances
+190	will OR an OR analysis OR of OR panel OR flutter OR based OR on OR arbitrarily OR assumed OR modes OR of OR deformation OR prove OR satisfactory OR and OR if OR so OR what OR is OR the OR minimum OR number OR of OR modes OR that OR need OR be OR considered
+191	what OR is OR the OR criterion OR for OR true OR panel OR flutter OR as OR opposed OR to OR small OR amplitude OR vibration OR arising OR from OR acoustic OR disturbances
+192	papers OR dealing OR with OR uniformly OR loaded OR sectors
+193	general OR methods OR of OR solving OR clamped OR plate OR problems
+194	how OR can OR the OR analytical OR solution OR of OR the OR buckling OR strength OR of OR a OR uniform OR circular OR cylinder OR loaded OR in OR axial OR compression OR be OR refined OR so OR as OR to OR lower OR the OR buckling OR load
+195	in OR the OR problem OR of OR the OR buckling OR strength OR of OR uniform OR circular OR cylinders OR loaded OR in OR axial OR compression OR does OR the OR linear OR solution OR help OR with OR improving OR the OR non OR linear OR one
+196	the OR problem OR of OR similarity OR for OR representative OR investigation OR of OR aeroelastic OR effects OR in OR a OR flow OR with OR the OR absence OR of OR heating OR effects
+197	how OR is OR fatigue OR damage OR estimated OR using OR the OR normal OR long OR hand OR method
+198	is OR there OR any OR information OR available OR on OR the OR difference OR in OR the OR effects OR of OR various OR edge OR conditions OR on OR the OR buckling OR of OR cylindrical OR shells
+199	have OR non OR linear OR large OR deflection OR analyses OR been OR conducted OR for OR shell OR shapes OR other OR than OR conical
+200	are OR asymptotic OR methods OR sufficiently OR accurate OR in OR the OR determination OR of OR pre OR buckling OR stresses OR in OR torispherical OR shells OR or OR must OR we OR resort OR to OR numerical OR methods
+201	what OR are OR the OR nonequilibrium OR chemical OR constituents OR in OR the OR viscous OR shock OR layer OR ahead OR of OR a OR blunt OR re OR entry OR vehicle
+202	how OR accurate OR are OR existing OR analytical OR theories OR in OR estimating OR pressure OR distributions OR on OR cones OR at OR incidence OR at OR hypersonic OR speeds
+203	are OR simple OR empirical OR methods OR of OR any OR use OR for OR estimating OR pressure OR distribution OR in OR cones
+204	do OR viscous OR effects OR seriously OR modify OR pressure OR distributions
+205	has OR anyone OR investigated OR theoretically OR whether OR surface OR flexibility OR can OR stabilize OR a OR laminar OR boundary OR layer
+206	how OR do OR subsonic OR and OR transonic OR flutter OR data OR measured OR in OR the OR new OR langley OR transonic OR dynamics OR tunnel OR compare OR with OR similar OR data OR obtained OR in OR other OR facilities
+207	how OR do OR large OR changes OR in OR new OR mass OR ratio OR quantitatively OR affect OR wing OR flutter OR boundaries
+208	what OR is OR the OR effect OR of OR the OR shape OR of OR the OR drag OR polar OR of OR a OR lifting OR spacecraft OR on OR the OR amount OR of OR reduction OR in OR maximum OR deceleration OR obtainable OR by OR continuously OR varying OR the OR aerodynamic OR coefficients OR during OR re OR entry
+209	what OR are OR the OR physical OR significance OR and OR characteristics OR of OR separated OR laminar OR and OR turbulent OR boundary OR layer OR flows
+210	has OR anyone OR analytically OR investigated OR the OR stabilizing OR influence OR of OR soft OR elastic OR cores OR on OR the OR buckling OR strength OR of OR cylindrical OR shells OR subjected OR to OR non OR uniform OR external OR pressure
+211	what OR papers OR are OR available OR on OR the OR buckling OR of OR empty OR cylindrical OR shells OR under OR non OR uniform OR pressure
+212	what OR effect OR do OR thermal OR stresses OR have OR on OR the OR compressive OR buckling OR strength OR of OR ring OR stiffened OR cylinders
+213	what OR is OR the OR effect OR on OR cylinder OR buckling OR of OR a OR circumferential OR stress OR system OR that OR varies OR in OR the OR axial OR direction
+214	can OR non OR linear OR shallow OR shell OR analysis OR be OR reduced OR to OR an OR engineering OR technique OR by OR use OR of OR the OR matrix
+216	what OR investigations OR have OR been OR made OR of OR the OR wave OR system OR created OR by OR a OR static OR pressure OR distribution OR over OR a OR liquid OR surface
+217	has OR anyone OR investigated OR the OR effect OR of OR shock OR generated OR vorticity OR on OR heat OR transfer OR to OR a OR blunt OR body
+218	what OR is OR the OR heat OR transfer OR to OR a OR blunt OR body OR in OR the OR absence OR of OR vorticity
+219	what OR are OR the OR general OR effects OR on OR flow OR fields OR when OR the OR reynolds OR number OR is OR small
+220	find OR a OR calculation OR procedure OR applicable OR to OR all OR incompressible OR laminar OR boundary OR layer OR flow OR problems OR having OR good OR accuracy OR and OR reasonable OR computation OR time
+221	papers OR applicable OR to OR this OR problem OR calculation OR procedures OR for OR laminar OR incompressible OR flow OR with OR arbitrary OR pressure OR gradient
+222	has OR anyone OR investigated OR the OR shear OR buckling OR of OR stiffened OR plates
+223	papers OR on OR shear OR buckling OR of OR unstiffened OR rectangular OR plates OR under OR shear
+224	in OR practice OR how OR close OR to OR reality OR are OR the OR assumptions OR that OR the OR flow OR in OR a OR hypersonic OR shock OR tube OR using OR nitrogen OR is OR non OR viscous OR and OR in OR thermodynamic OR equilibrium
+225	what OR design OR factors OR can OR be OR used OR to OR control OR lift OR drag OR ratios OR at OR mach OR numbers OR above OR 5

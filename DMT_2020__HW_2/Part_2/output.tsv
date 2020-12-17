@@ -1,0 +1,17 @@
+	Book	Character	Dumping_factor	Exponent	Condunctance	Baratheon	Lannister	Stark	Targaryen	Total
+0	book_1.tsv	Daenerys-Targaryen	0.9	1.0	0.07801418439716312	0	0	0	3	22
+1	book_1.tsv	Jon-Snow	0.9	1.0	0.07913669064748201	6	6	11	5	166
+2	book_1.tsv	Samwell-Tarly	0.8	1.0	0.07913669064748201	6	6	11	5	166
+3	book_1.tsv	Tyrion-Lannister	0.85	1.0	0.07913669064748201	6	6	11	5	166
+4	book_2.tsv	Daenerys-Targaryen	0.9	1.0	0.09859154929577464	0	0	0	3	18
+5	book_2.tsv	Jon-Snow	0.75	1.0	0.08527131782945736	0	0	1	4	28
+6	book_2.tsv	Samwell-Tarly	0.55	1.0	0.08527131782945736	0	0	1	4	28
+7	book_2.tsv	Tyrion-Lannister	0.95	1.0	0.09865470852017937	8	6	5	6	160
+8	book_3.tsv	Daenerys-Targaryen	0.9	0.8	0.07142857142857142	0	0	0	2	25
+9	book_3.tsv	Jon-Snow	0.95	1.0	0.06198347107438017	0	0	1	1	74
+10	book_3.tsv	Samwell-Tarly	0.95	1.0	0.06079664570230608	0	0	1	1	71
+11	book_3.tsv	Tyrion-Lannister	0.95	1.0	0.07903780068728522	7	9	10	10	204
+12	book_4.tsv	Daenerys-Targaryen	0.95	1.0	0.07157894736842105	5	8	4	11	298
+13	book_4.tsv	Jon-Snow	0.95	1.0	0.06060606060606061	2	0	6	2	181
+14	book_4.tsv	Samwell-Tarly	0.95	1.0	0.08624708624708624	2	0	6	2	177
+15	book_4.tsv	Tyrion-Lannister	0.95	1.0	0.0441025641025641	5	8	4	11	286
